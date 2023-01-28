@@ -153,8 +153,12 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
+## Contribution
+Creating a new repository named AirBnB_clone_v4 and copying the AirBnB_clone_v3 repository files to AirBnB_clone_v4 repository
+
 ## Authors
 Onifade Olanrewaju - [Github](https://github.com/Amoo89) / [Twitter](https://twitter.com/amoooonifade)
 Joy Ada Obekpa - [Github](https://github.com/JoyAda123)
+
 ## License
 Public Domain. No copy write protection. 
