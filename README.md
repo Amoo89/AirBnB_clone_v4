@@ -159,6 +159,7 @@ Creating a new repository named AirBnB_clone_v4 and copying the AirBnB_clone_v3 
 ## Authors
 Onifade Olanrewaju - [Github](https://github.com/Amoo89) / [Twitter](https://twitter.com/amoooonifade)
 Joy Ada Obekpa - [Github](https://github.com/JoyAda123)
+Abolarinwa Temitope Sam - [Github](https://github.com/Temitopesam1) / [Twitter](https://twitter.com/Temitopesam1)
 
 ## License
 Public Domain. No copy write protection. 
